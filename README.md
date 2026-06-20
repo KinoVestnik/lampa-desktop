@@ -9,9 +9,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/KinoVestnik/Vseti-desktop/releases/latest"><img src="https://img.shields.io/github/v/release/KinoVestnik/Vseti-desktop?style=for-the-badge&logo=github&label=Версия" alt="Последняя версия"></a>
-  <a href="https://github.com/KinoVestnik/Vseti-desktop/releases"><img src="https://img.shields.io/github/downloads/KinoVestnik/Vseti-desktop/total?style=for-the-badge&logo=github&label=Загрузки" alt="Загрузки"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/github/license/KinoVestnik/Vseti-desktop?style=for-the-badge&label=Лицензия" alt="GPL-2.0"></a>
+  <a href="https://github.com/KinoVestnik/Vseti-desktop/releases/latest"><img src="https://img.shields.io/github/v/release/KinoVestnik/Vseti-desktop?style=for-the-badge&logo=github&label=release" alt="Последняя версия"></a>
+  <a href="https://github.com/KinoVestnik/Vseti-desktop/releases"><img src="https://img.shields.io/github/downloads/KinoVestnik/Vseti-desktop/total?style=for-the-badge&logo=github&label=downloads" alt="Загрузки"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/github/license/KinoVestnik/Vseti-desktop?style=for-the-badge&label=license" alt="GPL-2.0"></a>
 </p>
 
 <p align="center">
